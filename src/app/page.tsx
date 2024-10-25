@@ -7,7 +7,7 @@ import Footer from './components/Footer'
 
 function Home() {
   return (
-    <div className="flex justify-center  w-[full] h-[250rem] md:h-[2453px] lg:h-[2453px] bg-[#CFA6A61C] ">
+    <div className="flex justify-center  w-[full] h-[250rem] sm:h-[250rem] md:h-[2453px] lg:h-[2453px] bg-[#CFA6A61C] ">
     <Navbar />
       < HeroSection />
       <RecentPost />
