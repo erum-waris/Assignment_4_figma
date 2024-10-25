@@ -10,7 +10,7 @@ function RecentPost() {
     <h1 className="text-[#000000] text-[22px]">
         Recent Post
     </h1>
-    <h1 className=" text-[#F98585] text-[16px] md:text-[22px] lg:text-[22px] ">
+    <h1 className=" text-[#F98585] text-[22px]  ">
         View All
     </h1>
     </div>

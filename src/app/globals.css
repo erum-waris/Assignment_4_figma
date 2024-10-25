@@ -6,4 +6,25 @@
 @tailwind utilities;
 
 
+:root {
+    --background: #CFA6A61C;
+    --foreground: #171717;
+    --customPink: #F98585;
+    --customBlue: #21243D;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --background: #CFA6A61C;
+      --foreground: #171717;
+      --customPink: #F98585;
+      --customBlue: #21243D;
+    }
+  }
+  
+  body {
+    color: var(--foreground);
+    background: var(--background);
+    font-family: Arial, Helvetica, sans-serif;
+  }
 
