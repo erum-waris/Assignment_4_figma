@@ -11,11 +11,11 @@ src={Props.href}
 alt={Props.alt}
 width={300}
 height={300}
-className="w-56 lg:w-full md:w-full rounded-md"
-/>
+className="w-full  md:w-[246px] md:h-[180px]  rounded-md"
+/> 
     </div>
     <div className="w-[70%] lg:w-[47%] md:w-[45%]">
-      <h3 className=" font-bold text-3xl pb-4">
+      <h3 className=" font-bold text-2xl md:text-3xl pb-4">
       Designing Dashboards
       </h3>
       <div className="flex gap-4 pb-4">
@@ -26,7 +26,7 @@ className="w-56 lg:w-full md:w-full rounded-md"
       Dashboard
       </span>
       </div>
-      <p className=" md:text-md lg:text-md font-base ">
+      <p className="text-center md:text-lg lg:text-lg font-xl ">
       Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
       </p>
     </div>
