@@ -6,7 +6,7 @@ function RecentPost() {
     <>
     <div className="bg-[#f2e0e0] w-auto md:w-full lg:w-full h-[full] lg:h-[502px] absolute top-[875px] md:top-[745px] p-10 m-0">
 
-    <div className="flex  justify-between md:mx-36 sm:mx-[200px] lg:mx-[180px]  mb-2">
+    <div className="flex  justify-between md:mx-36 sm:mx-[200px] lg:mx-[200px]  mb-2">
     <h1 className="text-[#000000] text-[22px]">
         Recent Post
     </h1>

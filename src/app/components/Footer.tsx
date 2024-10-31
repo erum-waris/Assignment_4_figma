@@ -5,7 +5,7 @@ import { FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="absolute top-[240rem] sm:top-[240rem] flex flex-col items-center md:top-[150rem] lg:top-[140rem]">
+    <footer className="absolute top-[240rem] sm:top-[240rem] flex flex-col items-center md:top-[160rem] lg:top-[140rem]">
        <div className="flex justify-center  flex-col gap-4">
         <div className="flex gap-8">
         <FaFacebookSquare  className="w-[30px] h-[30px] text-[#21243D] "/>
