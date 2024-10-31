@@ -26,7 +26,7 @@ className="w-full  md:w-[246px] md:h-[180px]  rounded-md"
       Dashboard
       </span>
       </div>
-      <p className="text-center md:text-lg lg:text-lg font-xl ">
+      <p className=" md:text-xl lg:text-xl text-[18px] ">
       Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.
       </p>
     </div>
